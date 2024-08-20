@@ -21,8 +21,6 @@ Web developer
 ### Certification:
 MTCNA (MikroTik Certified Network Associate)
 
-[LinkedIn](https://www.linkedin.com/in/maxym-yurkevych-01509a195/)
-
 <!--
 **Makes-MS/Makes-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
